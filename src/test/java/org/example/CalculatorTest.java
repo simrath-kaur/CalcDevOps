@@ -1,4 +1,5 @@
-import calculator.Calculator;
+package org.example;
+
 import static org.junit.Assert.*;
 import org.junit.Test;
 
