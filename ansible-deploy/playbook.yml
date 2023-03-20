@@ -12,4 +12,4 @@
       shell: docker pull docker.io/ashutosh024/sp_project
 
     - name: running container
-      shell: docker run -it ashutosh024/sp_project
+      shell: docker run -it -d ashutosh024/sp_project

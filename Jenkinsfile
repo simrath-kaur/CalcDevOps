@@ -19,7 +19,7 @@ pipeline {
         stage('Building an Docker Image') {
             steps {
                 script{
-                    imageName=docker.build "ashutosh024/sp_project"
+                    imageName=docker.build "cd"
                 }
             }
         }
