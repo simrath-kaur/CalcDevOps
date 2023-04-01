@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="org.example.CalculatorTest" time="0.362" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="org.example.CalculatorTest" time="0.441" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.17+8-adhoc.root.jdk11u"/>
@@ -32,7 +32,7 @@
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.15.0-56-generic"/>
+    <property name="os.version" value="5.15.0-67-generic"/>
     <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
     <property name="user.home" value="/home/ashutosh"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
@@ -62,12 +62,12 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.example.CalculatorTest" name="factorialFalsePositive" time="0.344"/>
-  <testcase classname="org.example.CalculatorTest" name="squareRootTruePositive" time="0.006"/>
-  <testcase classname="org.example.CalculatorTest" name="squareRootFalsePositive" time="0.002"/>
+  <testcase classname="org.example.CalculatorTest" name="factorialFalsePositive" time="0.422"/>
+  <testcase classname="org.example.CalculatorTest" name="squareRootTruePositive" time="0.007"/>
+  <testcase classname="org.example.CalculatorTest" name="squareRootFalsePositive" time="0.001"/>
   <testcase classname="org.example.CalculatorTest" name="logTruePositive" time="0.001"/>
   <testcase classname="org.example.CalculatorTest" name="factorialTruePositive" time="0"/>
   <testcase classname="org.example.CalculatorTest" name="powerFalsePositive" time="0.007"/>
-  <testcase classname="org.example.CalculatorTest" name="powerTruePositive" time="0.001"/>
+  <testcase classname="org.example.CalculatorTest" name="powerTruePositive" time="0.002"/>
   <testcase classname="org.example.CalculatorTest" name="logFalsePositive" time="0.001"/>
 </testsuite>
