@@ -79,6 +79,7 @@ public class Calculator {
 
 
 
+
     public double squareRoot(double number1) {
         logger.info("[SQ ROOT] - " + number1);
         double result = Math.sqrt(number1);
