@@ -1,4 +1,0 @@
-2023-04-02 01:45:34.635 [main] INFO  org.example.Calculator - [FACTORIAL] - -4.0
-2023-04-02 01:45:34.637 [main] INFO  org.example.Calculator - [RESULT - FACTORIAL] - 1.0
-2023-04-02 01:46:20.700 [main] INFO  org.example.Calculator - [SQ ROOT] - 4.0
-2023-04-02 01:46:20.702 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 2.0
